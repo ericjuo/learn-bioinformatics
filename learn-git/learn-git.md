@@ -5,7 +5,7 @@
 ```
 !git --version
 ```
-## Common Used Terminal Command (for Windows)
+## Commonly Used Terminal Command (for Windows)
 `dir` lists all the files and folders under the current folder
 ```
 !dir
@@ -43,7 +43,7 @@ The `move` command can also rename files.
 ```
 !cls
 ```
-## Set Up git
+## Set Up Git
 To start using git, the first thing to do is set up user name and user email. (Only needs to set up one time)
 ```
 !git config --global user.name "Eric Juo"
