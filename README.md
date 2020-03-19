@@ -13,6 +13,6 @@
 1. [Learn Git](https://github.com/ericjuo/learn-bioinformatics/blob/master/learn-git/learn-git.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTc2MTIyMywxNzEwODU5MDQ2LDIwMz
+eyJoaXN0b3J5IjpbMTE5MzI0MDQ0MSwxNzEwODU5MDQ2LDIwMz
 AwNzAxNDFdfQ==
 -->
