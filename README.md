@@ -9,6 +9,7 @@
 5. [自訂函數](https://github.com/ericjuo/learn-bioinformatics/blob/master/learn-python/05.%E8%87%AA%E8%A8%82%E5%87%BD%E6%95%B8.md)
 6. [匯率爬蟲](https://github.com/ericjuo/learn-bioinformatics/blob/master/learn-python/06.%E5%8C%AF%E7%8E%87%E7%88%AC%E8%9F%B2.md)
 7. [類別與物件](https://github.com/ericjuo/learn-bioinformatics/blob/master/learn-python/07.%E9%A1%9E%E5%88%A5%E8%88%87%E7%89%A9%E4%BB%B6.md)
+8. [資料視覺化](https://github.com/ericjuo/learn-bioinformatics/blob/master/learn-python/08.Data%20Visualization.md)
 
 ## Learn Git
 1. [Learn Git](https://github.com/ericjuo/learn-bioinformatics/blob/master/learn-git/learn-git.md)
