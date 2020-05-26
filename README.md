@@ -14,6 +14,9 @@
 ## Learn Git
 1. [Learn Git](https://github.com/ericjuo/learn-bioinformatics/blob/master/learn-git/learn-git.md)
 
+## Absorbing knowledge in OSSU university...
+[![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDIwOTY1NDAxLDExOTMyNDA0NDEsMTcxMD
 g1OTA0NiwyMDMwMDcwMTQxXX0=
