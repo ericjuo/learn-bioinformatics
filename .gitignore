@@ -1,3 +1,6 @@
-/project/*
+project/*
 *.txt
 rosalind_lcsm.py
+quantative_biology_with_python/*
+591/*
+sql/*
