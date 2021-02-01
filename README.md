@@ -4,7 +4,7 @@ This is my learning journey on bioinformatics.
 ## Learning log
 I created this log to keep track of my progress on learning bioinformatic skills.
 
-### [2021]()
+### [2021](log.md#2021)
 
 
 ## Resources
