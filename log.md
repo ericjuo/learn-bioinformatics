@@ -9,7 +9,7 @@
 
 #### Resources:
 ---
-## 2021(#2021)
+## [2021](#2021)
 ### Febuary 1, 2021
 
 #### Today's Progress:
@@ -18,7 +18,6 @@
 - Without random sampling, the sample can not be generalized to the population. Without random assignment, the experiment can not be concluded as causative. A good experiment design should include random sampling and random assignment.
 #### Thoughts:
 At first, I was confused between controlling and blocking, but then I realized that controlling is to control variations other than treatments; while blocking is to group by variations are not treaments and can not be controlled.
-#### Link to work:
 
 #### Resources:
 - Diez D., Cetinkaya-Rundel M., Barr C. D. OpenIntro Statistics Fourth Edition. 2019. 
